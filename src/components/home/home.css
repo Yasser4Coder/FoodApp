@@ -1,0 +1,54 @@
+.text-elements p {
+  color: #737373;
+}
+.text-elements h1 {
+  color: #252b42;
+}
+
+.home {
+  background-color: #f1f1f1;
+}
+
+.playstore {
+  width: 263px;
+  padding: 16px 0px;
+  background-color: #fa4a0c;
+  border: 2px solid #fa4a0c;
+  border-radius: 30px;
+  font-size: 24px;
+  color: #ffffff;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.appstore {
+  width: 263px;
+  padding: 16px 0px;
+  background-color: transparent;
+  border: 2px solid #fa4a0c;
+  border-radius: 30px;
+  font-size: 24px;
+  color: #fa4a0c;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .text-elements p {
+    color: #f6f6f6;
+  }
+  .text-elements h1 {
+    color: #ffffff;
+  }
+
+  .home {
+    background-image: url(../../images/Rectangle\ 48.png);
+    background-size: cover;
+  }
+
+  .appstore {
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+  }
+}

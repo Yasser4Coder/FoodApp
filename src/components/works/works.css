@@ -1,0 +1,21 @@
+.line {
+  height: 3px;
+  width: 100%;
+  background-color: #e4e4e4;
+}
+
+
+.works {
+  background-color: #f5f3f3;
+}
+
+.works h1 {
+  color: #000000;
+}
+
+@media only screen and (min-width: 768px) {
+  .works-image {
+    position: relative;
+    top: -55px;
+  }
+}

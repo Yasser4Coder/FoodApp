@@ -1,0 +1,68 @@
+.footer {
+  background-color: #252b42;
+}
+
+.first-part {
+  padding: 60px 0px;
+}
+
+.first-part .texts h1 {
+  color: #ffffff;
+}
+
+.first-part .texts p {
+  color: #bdbdbd;
+}
+
+.buttons .buy {
+  padding: 18px 31px;
+  border-radius: 10px;
+  background-color: #fa4a0c;
+  border: 1px solid #fa4a0c;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.buttons .try {
+  padding: 16px 45px;
+  border-radius: 10px;
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.scond-part {
+  padding: 50px 0px;
+}
+
+.icons {
+  width: 40.987px;
+  height: 40.987px;
+  color: #fa4a0c;
+  cursor: pointer;
+}
+
+.scond-part .texts p {
+  color: #5c5c5c;
+}
+
+.footer-logo {
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px){
+  .footer {
+    background-image: url(../../images/Rectangle\ 47.png);
+    background-size: cover;
+  }
+
+  .first-part .texts p {
+    color: #ffffff;
+  }
+  
+
+}
