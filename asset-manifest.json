@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/FoodApp/static/css/main.bebb078b.css",
+    "main.js": "/FoodApp/static/js/main.e69cfa47.js",
+    "static/media/Rectangle 48.png": "/FoodApp/static/media/Rectangle 48.755f826548b56ec254d0.png",
+    "static/media/Rectangle 47.png": "/FoodApp/static/media/Rectangle 47.ccacbdf5ae35ea21395f.png",
+    "static/media/Rectangle (3).png": "/FoodApp/static/media/Rectangle (3).7ad34e485b16b19a6d56.png",
+    "static/media/Rectangle (4).png": "/FoodApp/static/media/Rectangle (4).22b3e23f3f68021fc799.png",
+    "static/media/Rectangle (2).png": "/FoodApp/static/media/Rectangle (2).0b7cd419114ad2e0f0c3.png",
+    "static/media/Rectangle (6).png": "/FoodApp/static/media/Rectangle (6).70fd208a7e858f6def2d.png",
+    "index.html": "/FoodApp/index.html",
+    "main.bebb078b.css.map": "/FoodApp/static/css/main.bebb078b.css.map",
+    "main.e69cfa47.js.map": "/FoodApp/static/js/main.e69cfa47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bebb078b.css",
+    "static/js/main.e69cfa47.js"
+  ]
+}
